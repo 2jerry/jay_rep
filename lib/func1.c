@@ -7,3 +7,7 @@ void foo1()
 void foo22(){printf("hellppppp");}
 
 
+
+void foo22(){
+printf("DDDD");}
+
