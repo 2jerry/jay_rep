@@ -4,4 +4,6 @@ void foo1()
 {
 	printf("Hello foo1!\n");
 }
-void foo22(){}
+void foo22(){printf("hellppppp");}
+
+
