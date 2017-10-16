@@ -11,3 +11,6 @@ void foo22(){printf("hellppppp");}
 void foo22(){
 printf("DDDD");}
 
+void foo333()
+{
+}
