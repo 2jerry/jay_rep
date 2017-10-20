@@ -15,3 +15,7 @@ void foo333()
 {
 	printf("foooooo");
 }
+
+void foo44()
+{
+}
