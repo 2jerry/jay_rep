@@ -13,5 +13,5 @@ printf("D DDD");}
 
 void foo333()
 {
-
+	printf("foooooo");
 }
