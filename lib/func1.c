@@ -17,5 +17,6 @@ void foo333()
 }
 
 void foo44()
+void foo555()
 {
 }
